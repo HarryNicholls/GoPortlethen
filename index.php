@@ -11,6 +11,13 @@
 
     $name="harry";
 
+    $firstNumnbe= 1;
+    $secondNumber = 2;
+
+    if (firstNumber < $secondNumber){
+        print "your number is greater than the second number";
+    }
+
     if ($name == "harry") {
         print "I know you!";
     }
