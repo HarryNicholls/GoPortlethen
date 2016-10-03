@@ -56,11 +56,11 @@
     {
         echo "<p>Hello!</p>";
     }
-/*
-    foreach($arrayelement as $x) {
+
+    foreach($myArray as $x) {
         print "<p>$x</p>";
     }
-*/
+
     ?>
 </p>
 
