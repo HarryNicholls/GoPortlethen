@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hello world</title> 
+    <title>Hello world</title>
 </head>
 <body>
 <p>
@@ -11,7 +11,7 @@
 
     $name="harry";
 
-    if ($name == "simon") {
+    if ($name == "harry") {
         print "I know you!";
     }
     else {
