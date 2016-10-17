@@ -8,7 +8,7 @@
 <p>
     <?php
 
-    echo "Hello big World";
+    echo "Hello World";
 
     $name="harry";
 
