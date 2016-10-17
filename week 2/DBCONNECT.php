@@ -17,3 +17,4 @@ $DB = mysqli_connect(DB_SERVER,
                     DB_DATABASE);
 
 
+Database=1405741db;Data Source=eu-cdbr-azure-west-a.cloudapp.net;User Id=bd5082fe0b7b9d;Password=da3cf16e
