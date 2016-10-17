@@ -7,7 +7,7 @@
 <body>
 <p>
     <?php
-    /*
+
     echo "Hello World";
 
     $name="harry";
@@ -28,7 +28,7 @@
     else {
         print "Who are you fam?";
     }
-*/
+
     $numberOfHobbits = 2;
     switch ($numberOfHobbits) {
         case 1:
